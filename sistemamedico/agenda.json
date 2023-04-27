@@ -1,0 +1,28 @@
+[ {
+  "id" : 1,
+  "data" : "20/10/23",
+  "paciente" : {
+    "id" : 1,
+    "cpf" : "02078472743",
+    "nome" : "Joao",
+    "telefones" : [ "aaaa" ],
+    "endereco" : "aaaaaaa",
+    "email" : "aaaa",
+    "ativo" : true,
+    "planoSaude" : {
+      "nome" : "Unimed",
+      "ans" : "222222"
+    }
+  },
+  "medico" : {
+    "crm" : "54321",
+    "nome" : "Ricardo",
+    "especialidade" : [ {
+      "tipo" : "Ortopedista"
+    }, {
+      "tipo" : "Alergista"
+    } ]
+  },
+  "ativo" : true,
+  "especialidade" : null
+} ]

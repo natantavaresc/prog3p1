@@ -1,0 +1,13 @@
+[ {
+  "crm" : "54321",
+  "nome" : "Ricardo",
+  "especialidade" : [ {
+    "tipo" : "Ortopedista"
+  }, {
+    "tipo" : "Alergista"
+  } ]
+}, {
+  "crm" : "12345",
+  "nome" : "Marcelo",
+  "especialidade" : [ ]
+} ]

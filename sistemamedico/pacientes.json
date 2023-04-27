@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "cpf" : "02078472743",
+  "nome" : "Joao",
+  "telefones" : [ "aaaa" ],
+  "endereco" : "aaaaaaa",
+  "email" : "aaaa",
+  "ativo" : true,
+  "planoSaude" : {
+    "nome" : "Unimed",
+    "ans" : "222222"
+  }
+}, {
+  "id" : 2,
+  "cpf" : "43030282236",
+  "nome" : "Paulo",
+  "telefones" : [ "fwrfewfew" ],
+  "endereco" : "dgesff",
+  "email" : "efewfew",
+  "ativo" : true,
+  "planoSaude" : {
+    "nome" : "Particular",
+    "ans" : "0000"
+  }
+} ]
